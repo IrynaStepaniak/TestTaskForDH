@@ -1,0 +1,12 @@
+D:\Tasks\HelloTask\HelloTask\bin\Debug\HelloTask.exe.config
+D:\Tasks\HelloTask\HelloTask\bin\Debug\HelloTask.exe
+D:\Tasks\HelloTask\HelloTask\bin\Debug\HelloTask.pdb
+D:\Tasks\HelloTask\HelloTask\bin\Debug\nunit.framework.dll
+D:\Tasks\HelloTask\HelloTask\bin\Debug\WebDriver.dll
+D:\Tasks\HelloTask\HelloTask\bin\Debug\WebDriver.Support.dll
+D:\Tasks\HelloTask\HelloTask\bin\Debug\nunit.framework.xml
+D:\Tasks\HelloTask\HelloTask\bin\Debug\WebDriver.xml
+D:\Tasks\HelloTask\HelloTask\bin\Debug\WebDriver.Support.xml
+D:\Tasks\HelloTask\HelloTask\obj\Debug\HelloTask.csprojResolveAssemblyReference.cache
+D:\Tasks\HelloTask\HelloTask\obj\Debug\HelloTask.exe
+D:\Tasks\HelloTask\HelloTask\obj\Debug\HelloTask.pdb
